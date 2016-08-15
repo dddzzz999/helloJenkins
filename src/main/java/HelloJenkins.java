@@ -8,5 +8,6 @@ public class HelloJenkins {
 			System.out.println("Hello Jenkins!");
 			System.out.println("Hello Jenkins again!");
 			System.out.println("Hello Jenkins again!");
+			System.out.println("Hello Jenkins again!");
 		}
 }
