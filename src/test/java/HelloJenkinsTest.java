@@ -6,4 +6,9 @@ public class HelloJenkinsTest {
     	HelloJenkins classUnderTest = new HelloJenkins();
         assertTrue("someLibraryMethod should return 'true'", classUnderTest.someLibraryMethod());
     }
+    
+      public void testSomeLibraryMethod2() {
+        ///////////////
+    	HelloJenkins classUnderTest = new HelloJenkins();
+    }
 }
