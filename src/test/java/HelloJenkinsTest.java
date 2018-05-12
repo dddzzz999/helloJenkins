@@ -7,8 +7,8 @@ public class HelloJenkinsTest {
         assertTrue("someLibraryMethod should return 'true'", classUnderTest.someLibraryMethod());
     }
     
-      public void testSomeLibraryMethod2() {
-        ///////////////
+    public void testSomeLibraryMethod3() {
+      
     	HelloJenkins classUnderTest = new HelloJenkins();
     }
 }
