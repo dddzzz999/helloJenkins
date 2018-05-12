@@ -5,5 +5,9 @@ public class HelloJenkinsTest {
     	HelloJenkins classUnderTest = new HelloJenkins();
     }
     
-    
+    public void testSomeLibraryMethod3() {
+      
+    	HelloJenkins classUnderTest = new HelloJenkins();
+    }
+
 }
